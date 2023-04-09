@@ -1,5 +1,7 @@
 # Variable scopes in C#
 
+[Post](https://medium.com/@NelsonBN/variable-scopes-in-c-8f7c7bbeecb1)
+
 Nowadays, this topic is confused with the lifecycle of the container of dependency injection because one of the lifecycles of the container is called "scope". But it's not the same thing, it is a concept that is related to the variables.
 
 In C#, you have three types of scopes for variables:
